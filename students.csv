@@ -1,7 +1,8 @@
-Name,Age,City
-John Doe,22,New York
+Name,Age,City,Grade,Email
+John Doe,22,New York,A,johndoe@universitycom
 Jane Smith,30,Los Angeles
 Michael Johnson,45,Chicago
 Emily Davis,25,Houston
 David Wilson,28,Miami
 Sarah Miller,29,Seattle
+
