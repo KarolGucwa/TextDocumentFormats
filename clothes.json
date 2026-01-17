@@ -1,0 +1,32 @@
+[
+    {
+        "brand": "Nike",
+        "category": "Sportswear",
+        "yearFounded": 1964,
+        "headquarters": "Beaverton, Oregon, USA"
+    },
+    {
+        "brand": "Adidas",
+        "category": "Sportswear",
+        "yearFounded": 1949,
+        "headquarters": "Herzogenaurach, Germany"
+    },
+    {
+        "brand": "Zara",
+        "category": "Fast fashion",
+        "yearFounded": 1975,
+        "headquarters": "Arteijo, Spain"
+    },
+    {
+        "brand": "Puma",
+        "category": "Sportswear",
+        "yearFounded": 1948,
+        "headquarters": "Herzogenaurach, Germany"
+    },
+    {
+        "brand": "H&M",
+        "category": "Fast fashion",
+        "yearFounded": 1947,
+        "headquarters": "Stockholm, Sweden"
+    }
+]

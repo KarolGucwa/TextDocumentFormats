@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transport>
+    <vehicle type="Bicycle" color="Red" wheels="2">
+        <brand>Trek</brand>
+        <model>FX 3</model>
+        <year>2020</year>
+    </vehicle>
+    <vehicle type="Car" color="Blue" wheels="4">
+        <brand>Toyota</brand>
+        <model>Corolla</model>
+        <year>2022</year>
+    </vehicle>
+    <vehicle type="Airplane" color="White" wheels="3">
+        <brand>Airbus</brand>
+        <model>A320</model>
+        <year>2020</year>
+    </vehicle>
+</transport>

@@ -1,0 +1,18 @@
+{
+    "trainNumber": "IC 1234",
+    "departure": {
+        "station": "Warszawa Centralna",
+        "time": "2023-10-10 09:30"
+    },
+    "arrival": {
+        "station": "Kraków Główny",
+        "time": "2023-10-10 13:00"
+    },
+    "passenger": {
+        "name": "Jan Kowalski",
+        "age": 30,
+        "seat": "A12"
+    },
+    "price": 120.50,
+    "class": "First Class"
+}

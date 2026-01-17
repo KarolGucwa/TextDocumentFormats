@@ -1,0 +1,14 @@
+[
+    {
+        "planet": "Earth",
+        "type": "Rocky",
+        "distanceFromSun": "149.6 million km",
+        "moons": ["Moon"]
+    },
+    {
+        "planet": "Mars",
+        "type": "Rocky",
+        "distanceFromSun": "227.9 million km",
+        "moons": ["Phobos", "Deimos"]
+    }
+]

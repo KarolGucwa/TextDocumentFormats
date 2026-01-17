@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<creatures>
+    <creature species="Dragon" color="Red">
+        <name>Fafnir</name>
+        <habitat>Cave</habitat>
+    </creature>
+    <creature species="Phoenix" color="Golden">
+        <name>Ember</name>
+        <habitat>Mountains</habitat>
+    </creature>
+</creatures>
